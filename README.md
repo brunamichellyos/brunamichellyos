@@ -6,7 +6,7 @@ Olá! Sou uma professora apaixonada por educação em computação, dedicada a e
 
 - 👩‍🏫 **Profissão**: Professora de Computação
 - 🎓 **Missão**: Facilitar e inspirar a próxima geração de tecnólogos e pensadores críticos.
-- 📚 **Enfoque**: Estou focada em desenvolver e compartilhar recursos educativos que auxiliem meus alunos a alcançar excelência em computação.
+- 📚 **Enfoque**: Estou focada em desenvolver e compartilhar recursos educativos para meus alunos.
 - 🌱 **Crescimento**: Constantemente aprendendo e adaptando novas tecnologias e metodologias de ensino para melhor servir meus alunos.
 
 ## Meu Trabalho
