@@ -13,7 +13,7 @@ Olá! Sou uma professora apaixonada por educação em computação, dedicada a e
 
 Aqui no GitHub, estou começando a organizar e compartilhar materiais didáticos que complementam as aulas que ministro. O objetivo é proporcionar aos meus alunos recursos adicionais que possam acessar a qualquer hora e em qualquer lugar, fortalecendo o aprendizado contínuo.
 
-# Linguagens mais usadas
+### Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunamichellyos&layout=compact)
 
