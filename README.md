@@ -22,7 +22,7 @@ Aqui no GitHub, estou começando a organizar e compartilhar materiais didáticos
 
 Embora atualmente eu prefira manter meus materiais acessíveis apenas para meus alunos, estou aberta a colaborações que enriqueçam nossa experiência educacional. Se você é um colega educador ou estudante interessado em discutir ideias ou projetos, sinta-se à vontade para entrar em contato.
 
-- 📧 **Email**: [brunamichelly@ufg.br] ou [bruna.michelly@unialfa.com.br]
+- 📧 **Email**: [brunamichelly@ufg.br]
 
 Obrigada por visitar meu perfil! Espero que os recursos e insights que compartilho aqui inspirem e apoiem seus estudos ou ensino em computação.
 
